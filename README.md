@@ -1,1 +1,1 @@
-# airbnb_listing_price_prediction
+# airbnb-listing-price-prediction
